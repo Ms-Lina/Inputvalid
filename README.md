@@ -1,4 +1,3 @@
-```markdown
 # Multi-Form Flutter Application
 
 ## Overview
@@ -12,7 +11,6 @@ This Flutter project is a multi-screen form application that collects user detai
 - **Responsive UI:** Adaptive design for various screen sizes
 
 ## Folder Structure
-```
 project_root/
 │-- lib/
 │   │-- main.dart
