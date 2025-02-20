@@ -12,13 +12,21 @@ This Flutter project is a multi-screen form application that collects user detai
 
 ## Folder Structure
 project_root/
+
 │-- lib/
+
 │   │-- main.dart
+
 │   │-- form_screen.dart
+
 │   │-- summary_screen.dart
+
 │   │-- widgets/
+
 │   │   │-- custom_text_field.dart
+
 │-- pubspec.yaml
+
 │-- README.md
 ```
 
@@ -61,4 +69,3 @@ This project is open-source under the **MIT License**.
 ## Author
 By Lina IRATWE
 ```
-
